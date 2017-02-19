@@ -1,3 +1,13 @@
+#coding: utf-8
+'''
+@author: huangjin (Jeff)
+@contact: hj51yc@gmail.com
+
+SVM implemented using classic method with  kdd condition and dual method!
+
+'''
+
+
 import numpy as np
 import sys
 import random
